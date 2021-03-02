@@ -1,4 +1,4 @@
-<img src="https://github.com/carlatalamantes/carlatalamantes/blob/main/banner-git.png" width="100%" height="300px"/>
+<img src="https://github.com/carlatalamantes/carlatalamantes/blob/main/banner-git.png" width="100%" />
 
 <h1 align="center">Hola 👋, I'm Carla</h1>
 <h3 align="center">A passionate software engineer from Mexico</h3>
