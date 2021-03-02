@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Mexico</h3>
 
 ![Header](https://images.pexels.com/photos/2002719/pexels-photo-2002719.jpeg?cs=srgb&dl=pexels-timothy-paule-ii-2002719.jpg&fm=jpg)
-<img src="https://images.pexels.com/photos/2002719/pexels-photo-2002719.jpeg?cs=srgb&dl=pexels-timothy-paule-ii-2002719.jpg&fm=jpg" height="200"/>
+<img src="https://images.pexels.com/photos/2002719/pexels-photo-2002719.jpeg?cs=srgb&dl=pexels-timothy-paule-ii-2002719.jpg&fm=jpg" height="200" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlatalamantes&label=Profile%20views&color=0e75b6&style=flat" alt="carlatalamantes" /> </p>
 
