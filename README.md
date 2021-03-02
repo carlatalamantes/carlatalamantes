@@ -6,10 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlatalamantes&label=Profile%20views&color=0e75b6&style=flat" alt="carlatalamantes" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlatalamantes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlatalamantes" height="30" width="40" /></a>
-<a href="https://instagram.com/carlatalamantes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlatalamantes" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/carla-talamantes-chávez-a57a01198/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 
 
 
