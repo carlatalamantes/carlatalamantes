@@ -1,7 +1,6 @@
 <img src="https://github.com/carlatalamantes/carlatalamantes/blob/main/banner-git.png" width="100%"/>
 
 
-<h3 align="center">A passionate software engineer from Mexico</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlatalamantes&label=Profile%20views&color=0e75b6&style=flat" alt="carlatalamantes" /> </p>
