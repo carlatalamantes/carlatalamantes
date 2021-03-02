@@ -3,6 +3,7 @@
 <h1 align="center">Hola 👋, I'm Carla</h1>
 <h3 align="center">A passionate software engineer from Mexico</h3>
 
+<img src="https://images.pexels.com/photos/1705254/pexels-photo-1705254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width="100%" height="300px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlatalamantes&label=Profile%20views&color=0e75b6&style=flat" alt="carlatalamantes" /> </p>
 
