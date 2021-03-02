@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, I'm Carla</h1>
 <h3 align="center">A passionate software engineer from Mexico</h3>
 
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlatalamantes&label=Profile%20views&color=0e75b6&style=flat" alt="carlatalamantes" /> </p>
 
 <h3 align="left">Connect with me:</h3>
